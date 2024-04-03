@@ -2,8 +2,8 @@
 C:/Users/38095/Documents/Phone/Abonent.h
 C:/Users/38095/Documents/Phone/AbonentSqlTableModel.h
 C:/Users/38095/Documents/Phone/BaseSqlTableModel.h
-C:/Users/38095/Documents/Phone/connection.h
 C:/Users/38095/Documents/Phone/BaseTableEntity.h
+C:/Users/38095/Documents/Phone/connection.h
 C:/Users/38095/Documents/Phone/abonentsmodel.h
  mmc:Q_OBJECT
  mdp:C:/Users/38095/Documents/Phone/abonentsmodel.h
@@ -691,7 +691,7 @@ C:/Users/38095/Documents/Phone/mainwindow.h
  mdp:C:/Users/38095/Documents/Phone/connection.h
 C:/Users/38095/Documents/Phone/Abonent.cpp
 C:/Users/38095/Documents/Phone/AbonentSqlTableModel.cpp
+C:/Users/38095/Documents/Phone/abonentsmodel.cpp
 C:/Users/38095/Documents/Phone/mainwindow.cpp
  uic:ui_mainwindow.h
-C:/Users/38095/Documents/Phone/abonentsmodel.cpp
 C:/Users/38095/Documents/Phone/main.cpp
