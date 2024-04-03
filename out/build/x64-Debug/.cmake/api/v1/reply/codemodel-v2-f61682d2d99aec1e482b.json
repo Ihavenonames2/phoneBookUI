@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f1ce4420738ca6448551.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Phone",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Phone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Phone-Debug-5191d86f462cf85b3453.json",
+					"name" : "Phone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Phone_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Phone_autogen-Debug-ffa7f8a7a4330b09f294.json",
+					"name" : "Phone_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Phone_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Phone_autogen_timestamp_deps-Debug-083d2260685fdbc6915c.json",
+					"name" : "Phone_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/38095/Documents/Phone/out/build/x64-Debug",
+		"source" : "C:/Users/38095/Documents/Phone"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
